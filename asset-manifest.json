@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/md-tayyab03/seo-audit-tool/static/css/main.5bfc2aef.css",
-    "main.js": "/md-tayyab03/seo-audit-tool/static/js/main.b68a4ca6.js",
-    "static/js/787.773c780a.chunk.js": "/md-tayyab03/seo-audit-tool/static/js/787.773c780a.chunk.js",
-    "index.html": "/md-tayyab03/seo-audit-tool/index.html",
-    "main.5bfc2aef.css.map": "/md-tayyab03/seo-audit-tool/static/css/main.5bfc2aef.css.map",
-    "main.b68a4ca6.js.map": "/md-tayyab03/seo-audit-tool/static/js/main.b68a4ca6.js.map",
-    "787.773c780a.chunk.js.map": "/md-tayyab03/seo-audit-tool/static/js/787.773c780a.chunk.js.map"
+    "main.css": "/seo-audit-tool/static/css/main.5bfc2aef.css",
+    "main.js": "/seo-audit-tool/static/js/main.28a6dd48.js",
+    "static/js/787.773c780a.chunk.js": "/seo-audit-tool/static/js/787.773c780a.chunk.js",
+    "index.html": "/seo-audit-tool/index.html",
+    "main.5bfc2aef.css.map": "/seo-audit-tool/static/css/main.5bfc2aef.css.map",
+    "main.28a6dd48.js.map": "/seo-audit-tool/static/js/main.28a6dd48.js.map",
+    "787.773c780a.chunk.js.map": "/seo-audit-tool/static/js/787.773c780a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5bfc2aef.css",
-    "static/js/main.b68a4ca6.js"
+    "static/js/main.28a6dd48.js"
   ]
 }
